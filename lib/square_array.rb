@@ -1,6 +1,6 @@
 numbers = [1,2,3]
 def square_array(array)
-  count = i**2
+  count = 0
   
   while array[count] do
     puts array[count]
